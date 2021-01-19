@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+my lemonade is the best there is
 Use the left arrow to go back!
